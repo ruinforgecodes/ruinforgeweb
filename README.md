@@ -72,7 +72,8 @@ Minecraft Java Edition 26.3 / Fabric
 - RuinForge Ember UI: pixel-art logo, title screen, widgets, icons, reticle, menu copy, and packaging scripts.
 - RuinForge PvP texture packs: original item and shield textures.
 - RuinForge FPS Booster: original item and Non-Fake
-Third-party mods included by reference in this profile
+
+## Third-party mods included by reference in this profile
 - Sodium — https://modrinth.com/mod/sodium
 - Lithium — https://modrinth.com/mod/lithium
 - FerriteCore — https://modrinth.com/mod/ferrite-core
