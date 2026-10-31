@@ -61,6 +61,35 @@ A 1,000 FPS cap is only a maximum limit. The computer may not be able to render 
 
 ## Credits and launcher status
 
-The profile contains third-party Fabric mods with their original names and download references. See `RuinForge-Credits.txt` in the imported instance folder and each project page for current license terms. The RuinForge menu art and PvP textures are original project assets.
+## The profile contains third-party Fabric mods with their original names and download references. See `RuinForge-Credits.txt` in the imported instance folder and each project page for current license terms. The RuinForge menu art and PvP textures are original project assets.
 
-The separate RuinForge-branded desktop launcher is still in development. For now, use XMCL or another launcher that supports `.mrpack` imports. RuinForge is independent and is not affiliated with Mojang or Microsoft. Minecraft is a Microsoft trademark.
+## The separate RuinForge-branded desktop launcher is still in development. For now, use XMCL or another launcher that supports `.mrpack` imports. RuinForge is independent and is not affiliated with Mojang or Microsoft. Minecraft is a Microsoft trademark.
+
+## RUINFORGE CLIENT 2.26.3 — CREDITS
+Minecraft Java Edition 26.3 / Fabric
+
+## RuinForge original project assets
+- RuinForge Ember UI: pixel-art logo, title screen, widgets, icons, reticle, menu copy, and packaging scripts.
+- RuinForge PvP texture packs: original item and shield textures.
+- RuinForge FPS Booster: original item and Non-Fake
+Third-party mods included by reference in this profile
+- Sodium — https://modrinth.com/mod/sodium
+- Lithium — https://modrinth.com/mod/lithium
+- FerriteCore — https://modrinth.com/mod/ferrite-core
+- ImmediatelyFast — https://modrinth.com/mod/immediatelyfast
+- Entity Culling — https://modrinth.com/mod/entityculling
+- FPS Sync — https://modrinth.com/mod/fps-sync
+- PvP Client — https://modrinth.com/mod/DMngTx3u
+- Modern Keystrokes — https://modrinth.com/mod/modern-keystrokes
+- BetterF3 — https://modrinth.com/mod/betterf3
+- Mod Menu — https://modrinth.com/mod/modmenu
+- Cloth Config — https://modrinth.com/mod/cloth-config
+- Fabric API — https://modrinth.com/mod/fabric-api
+
+## RuinForge does not copy, rename, or claim authorship of these mods. The
+## modrinth.index.json records each selected version, download URL, and file hash.
+## Check each project page for its current license and redistribution terms. The
+## .mrpack references the original downloads.
+
+## RuinForge is an independent community project, not affiliated with Mojang or
+## Microsoft. Players need a valid Minecraft Java Edition license.
